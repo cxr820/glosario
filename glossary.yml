@@ -2648,6 +2648,10 @@
 
 
 - slug: geometric_mean
+  en:
+  term: "geometric mean"
+  def: >
+    A measure of central tendency that is the kth root of the product of k numbers for a set of numbers k. Useful when numbers are not independent of each, such as rate of return.
 
 
 - slug: git
